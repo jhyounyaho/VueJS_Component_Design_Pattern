@@ -5,6 +5,8 @@ Vue.config.productionTip = false
 
 new Vue({
   render: h => h(App),
+  /*
+  // render 모양이 왜 저렇게 되었는지의 과정  
   // 1
   render: function(createElement) {
     return createElement(App);
@@ -19,4 +21,5 @@ new Vue({
   },
   // 4
   render: h => h(App),
+  */
 }).$mount('#app')
