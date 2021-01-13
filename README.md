@@ -1,6 +1,7 @@
 # vue-advanced
 
 ## 컴포넌트 디자인 패턴
+컴포넌트 디자인 패턴들을 파악하여 작업시 필요한 패턴들을 적용하자!           
 
 ### 1. Common - 기본적인 컴포넌트 등록과 컴포넌트 통신                   
 ![vuejs_common1](https://user-images.githubusercontent.com/42309919/104389102-09960900-557e-11eb-8ecd-bb98ea36e270.PNG)
